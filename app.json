@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "firstrn",
+    "slug": "firstrn",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "b17f8332-0398-4373-8f4c-45381e66255f"
+      }
+    }
+  }
+}
